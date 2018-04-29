@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vidyaroha_CheckOn</string>
+
+
+    <string-array name="Visitor_gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Sai ka gender</item>
+    </string-array>
+</resources>
